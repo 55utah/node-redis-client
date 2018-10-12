@@ -7,4 +7,4 @@ node index.js
 # dependences
 only net and readline
 
-![image](https://github.com/Macixsq1/node-redis-client/edit/master/111.PNG)
+![image](https://github.com/Macixsq1/node-redis-client/master/111.PNG)
